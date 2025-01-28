@@ -33,6 +33,3 @@ The dashboard-1.pdf file shows ow the dashboard looks.
 ![dashboard](/2.png)
 ![dashboard](/3.png)
 
-## Acknowledgments
-
-Thank you to the 360 YP community .
